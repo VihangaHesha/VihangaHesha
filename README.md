@@ -12,7 +12,7 @@
   <br/>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Hello+There+👋;I'm+Vihanga+Heshan+Bandara;Back-End+Developer;IJSE+GDSE+Student;Java+%7C+JavaScript+%7C+OOP;Always+learning+new+things" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Hello+There+👋;I'm+Vihanga+Heshan+Bandara;Back-End+Developer;IJSE+GDSE+Student;Java+%7C+JavaScript+%7C+Spring;Always+learning+new+things" />
   </a>
 </div>
 
